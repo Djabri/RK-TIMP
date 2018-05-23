@@ -1,0 +1,1 @@
+Opensource проект в котором используется список - https://github.com/fffaraz/awesome-cpp#standard-libraries

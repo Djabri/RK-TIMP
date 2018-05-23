@@ -1,0 +1,1 @@
+Open Source проект с использоание map - https://github.com/koalaman/shellcheck
